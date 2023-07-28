@@ -1,0 +1,66 @@
+﻿  main.cpp
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(160,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(169,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(178,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(187,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(196,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(205,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(214,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(223,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(235,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(246,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(258,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(262,25): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(269,33): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(281,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(292,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(299,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(317,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(325,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(336,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(343,40): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(361,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(369,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(378,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(384,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(396,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(399,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(400,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(400,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(409,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(410,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(410,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(417,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(418,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(418,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(425,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(426,40): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(426,17): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(436,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(437,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(437,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(444,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(445,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(445,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(452,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(453,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(453,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(459,31): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(462,21): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(463,41): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(463,18): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(481,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(490,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(507,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(516,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(537,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(554,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(563,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(580,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(601,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(609,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(627,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(635,29): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(650,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\CGOpenGLExample\main.cpp(656,46): warning C4305: 'argument': truncation from 'double' to 'GLclampf'
+  CGOpenGLExample.vcxproj -> C:\Users\Joel\source\repos\CGOpenGL\CGOpenGLExample\x64\Debug\CGOpenGLExample.exe
