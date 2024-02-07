@@ -20,3 +20,7 @@ The primitive functions included in the project are:
 4. GLUT_SINGLE: For frame buffer
 5. GLUT_RGB: For Color index selection
 6. glutKeyboardFunc(keyDown): Keyboard call-back function
+
+## SIMPLE PROGRAM OUTPUT
+![image](https://github.com/Joel89899/Computer_Graphics/assets/53404239/6deed3a8-b69e-4157-8a32-09e9954dd97b)
+
